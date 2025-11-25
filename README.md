@@ -1,3 +1,8 @@
 # JACOB'S ANALYTICS PROJECTS
 
-## [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
+## Project 1: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)
+
+- Extracted and cleaned downtime records from the production line excel file using Power Query.
+- Modelled data and performed detailed exploratory analysis using Power BI to quantify downtime distribution and identify critical drivers.
+- Visualised downtime data in Power BI to compare downtime contribution by operators, machine failure, and inventory shortages.
+

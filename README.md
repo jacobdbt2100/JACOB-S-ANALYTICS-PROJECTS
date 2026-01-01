@@ -6,7 +6,7 @@ The campaign delivered strong overall performance, achieving a **ROAS of 4.0, CT
 
 Based on these findings, I recommend **scaling spend selectively** toward top-performing channels, regions, and products; **rebalancing regional strategies** to address funnel inefficiencies; and **reviewing the April–June period**
 
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Social-Media-Ads-Targeting-Strategy-Analysis/main/2_Leads.jpg" width="900">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/marketing campaign effectiveness report.jpg" width="500">
 
 
 ## Project 2: [Manufacturing Downtime Analysis](https://github.com/jacobdbt2100/Manufacturing-Downtime-Analysis/blob/main/README.md)

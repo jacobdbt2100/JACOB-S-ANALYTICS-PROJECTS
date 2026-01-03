@@ -8,6 +8,7 @@ Based on these findings, I recommend **scaling spend selectively** toward top-pe
 
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/main/marketing campaign effectiveness report.jpg" width="600">
 
+[Explore project here](https://github.com/jacobdbt2100/Marketing-Campaign-Effectiveness-Analysis/blob/main/README.md)
 ___
 
 ## Project 2: [Supply Chain Service Level Tracking Analysis](https://github.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/blob/main/README.md)
